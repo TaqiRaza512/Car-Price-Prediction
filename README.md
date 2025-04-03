@@ -1,4 +1,13 @@
-# Car Price Prediction
+# 🚗 Car Price Prediction
+
+## 📌 Jupyter Notebook Preview
+
+[![View Notebook](https://img.shields.io/badge/Open%20Notebook-GitHub%20View-orange)](https://github.com/TaqiRaza512/Car-Price-Prediction/blob/master/Car_Price_Prediction.ipynb)
+
+### 🖼 Static Preview:
+![Notebook Screenshot](https://raw.githubusercontent.com/TaqiRaza512/Car-Price-Prediction/master/images/notebook_preview.png)
+
+🔗 **Click [here](https://github.com/TaqiRaza512/Car-Price-Prediction/blob/master/Car_Price_Prediction.ipynb) to view the full Jupyter Notebook.**
 
 ## Introduction
 This project focuses on predicting car prices using various machine learning algorithms. It compares the effectiveness of different models in providing accurate price predictions.
