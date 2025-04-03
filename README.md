@@ -4,9 +4,6 @@
 
 [![View Notebook](https://img.shields.io/badge/Open%20Notebook-GitHub%20View-orange)](https://github.com/TaqiRaza512/Car-Price-Prediction/blob/master/Car_Price_Prediction.ipynb)
 
-### 🖼 Static Preview:
-![Notebook Screenshot](https://raw.githubusercontent.com/TaqiRaza512/Car-Price-Prediction/master/images/notebook_preview.png)
-
 🔗 **Click [here](https://github.com/TaqiRaza512/Car-Price-Prediction/blob/master/Car_Price_Prediction.ipynb) to view the full Jupyter Notebook.**
 
 ## Introduction
